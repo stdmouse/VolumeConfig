@@ -10,7 +10,7 @@
 
 # 使い方
 ## パッケージのインポート
-1. [Relese](https://github.com/stdmouse/VolumeConfig/releases)から、最新の`unitypackage`をダウンロードしてください。  
+1. [Releases](https://github.com/stdmouse/VolumeConfig/releases)から、最新の`unitypackage`をダウンロードしてください。  
   `volume_config.unitypackage`のリンクをクリックするとダウンロードできます。
 1. UnityのAssets>Inport package>custom packageから取り込む  
   ![volumeConfig_readme_unityPackageInport](https://user-images.githubusercontent.com/1392476/54866503-d5a19080-4db7-11e9-888d-a30d241477fe.png)
